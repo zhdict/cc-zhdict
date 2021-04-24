@@ -1,0 +1,7 @@
+# See: https://cc-cedict.org/wiki/format:syntax
+#
+# Format:
+# Traditional Simplified [pin1 yin1] /English equivalent 1/equivalent 2/
+#
+# Example:
+# 中國 中国 [Zhong1 guo2] /China/Middle Kingdom/

@@ -5,3 +5,6 @@
 #
 # Example:
 # 中國 中国 [Zhong1 guo2] /China/Middle Kingdom/
+踢足球 踢足球 [ti1 zu2 qiu2] /to play soccer (football)/
+因為…所以… 因为…所以… [yin1 wei4 … suo3 yi3 …] /because… thus…/on account of… then…/
+雖然…但是… 虽然…但是… [sui1 ran2 … dan4 shi4 …] /although… still…/even if… nevertheless.../

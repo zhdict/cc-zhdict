@@ -1,0 +1,7 @@
+# Almost https://cc-cedict.org/wiki/format:syntax
+#
+# Format:
+# Traditional Simplified [pin1 yin1] /English equivalent/
+#
+# Example:
+# 他喜歡貓 他喜欢猫 [ta1 xi3 huan5 mao1] en/he likes cats/ de/er mag Katzen/

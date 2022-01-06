@@ -14,3 +14,4 @@ To search the dictionary and to contribute online, visit: https://chdict.zydeo.n
 
 **CFDICT** - ? \
 ?
+CC BY-SA 3.0.
